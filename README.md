@@ -53,5 +53,5 @@ If you would like to discuss or collaborate, feel free to reach out:
 - Email: [clarisayovanda@gmail.com](mailto:clarisayovanda@gmail.com)
 - Whatsapp : [087815900828](https://wa.me/6287815900828)
 
-> This repository showcases real-world data analysis experience from my role as a Digital Marketing Analyst.
+> This repository showcases real-world data analysis experience from my role as a Digital Marketing Analyst, data analyst, dan data scientist
 >
