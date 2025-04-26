@@ -10,7 +10,7 @@ Hi, I’m **Clarisa Priliana,** a Mathematics graduate with a strong passion for
 
 For the past **two years**, I have been working as a **Digital Marketing Analyst** at **PT CITO Putra Utama**, where I have gained valuable experience in analyzing website performance, user behavior, marketing campaigns, and business insights through data.
 
-My background in Mathematics has equipped me with strong analytical thinking and problem-solving skills, while my professional experience has strengthened my abilities in **data analysis**, **data visualization**, **marketing analytics**, and **business intelligence**.
+My background in Mathematics has equipped me with strong analytical thinking and problem-solving skills, while my professional experience has strengthened my abilities in **data analysis**, **data visualization**, **marketing analytics**, and **data science** and **business intelligence**.
 
 During my time at PT CITO Putra Utama, I worked closely with cross-functional teams to:
 
