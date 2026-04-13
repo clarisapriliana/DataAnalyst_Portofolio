@@ -1,6 +1,6 @@
 ## Analisis Faktor yang Mempengaruhi Keberhasilan Aplikasi pada Google Play Store
-**Dataset** : [source](https://www.rakamin.com/virtual-internship-experience/data-scientist-home-credit-indonesia) <br>
-**Python Code** : [view](https://github.com/faizns/HCI-vix-project/blob/main/HCI_VIX.ipynb)<br>
+**Dataset** : [source](https://www.kaggle.com/datasets/lava18/google-play-store-apps?resource=download) <br>
+**Python Code** : [view](https://colab.research.google.com/drive/1izcSBP3edfnVP0QSqlKvLHsQpRzocaLg?usp=sharing)<br>
 
 <br>
 
