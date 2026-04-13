@@ -15,8 +15,6 @@
 
 ## 📂 Business Understanding
 
----
-
 ### **Problem Statement**
 
 Saat ini, aplikasi di Google Play Store jumlahnya sangat banyak dan terus bertambah. Hal ini membuat persaingan antar aplikasi menjadi semakin tinggi.
@@ -25,27 +23,25 @@ Developer sering kesulitan memahami faktor apa saja yang membuat sebuah aplikasi
 
 Jika tidak dianalisis dengan baik, aplikasi yang dibuat bisa kurang diminati oleh pengguna dan sulit bersaing di pasaran.
 
-## **Goals**
+### **Goals**
 
 - Mengetahui faktor yang mempengaruhi keberhasilan aplikasi
 - Membantu developer memahami preferensi pengguna
 - Mendukung pengambilan keputusan dalam pengembangan aplikasi
 
-## **Objectives**
+### **Objectives**
 
 - Menganalisis hubungan antara rating, size, price, dan kategori dengan jumlah install
 - Mengidentifikasi pola aplikasi yang sukses dan kurang sukses
 - (Opsional) Membuat model sederhana untuk memprediksi keberhasilan aplikasi
 
-# 📂 Workflow
+## 📂 Workflow
 
----
-
-## 1. Pengumpulan Data
+### 1. Pengumpulan Data
 
 Dataset yang digunakan merupakan dataset Google Play Store yang berisi informasi mengenai aplikasi, seperti kategori, rating, jumlah installs, ukuran aplikasi, harga, dan lain-lain.
 
-## 2. Data Cleaning & Preprocessing
+### 2. Data Cleaning & Preprocessing
 
 Pada tahap ini dilakukan pembersihan dan persiapan data agar siap dianalisis, meliputi:
 
@@ -57,7 +53,7 @@ Pada tahap ini dilakukan pembersihan dan persiapan data agar siap dianalisis, me
     - Kolom *Size* diseragamkan ke dalam satuan yang konsisten
 - Menghapus data yang tidak relevan atau outlier jika diperlukan
 
-## 3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 
 Tahap ini bertujuan untuk memahami karakteristik data, dengan cara:
 
@@ -65,7 +61,7 @@ Tahap ini bertujuan untuk memahami karakteristik data, dengan cara:
 - Mengidentifikasi pola awal
 - Menemukan hubungan antar variabel
 
-## 4. Visualisasi Data
+### 4. Visualisasi Data
 
 Data divisualisasikan agar lebih mudah dipahami, menggunakan:
 
@@ -73,7 +69,7 @@ Data divisualisasikan agar lebih mudah dipahami, menggunakan:
 - Histogram → untuk distribusi data
 - Scatter plot → untuk melihat hubungan antar variabel
 
-## 5. Penarikan Insight
+### 5. Penarikan Insight
 
 Berdasarkan hasil analisis dan visualisasi, dilakukan penarikan insight seperti:
 
@@ -81,14 +77,14 @@ Berdasarkan hasil analisis dan visualisasi, dilakukan penarikan insight seperti:
 - Karakteristik aplikasi yang sukses
 - Pola perilaku pengguna terhadap aplikasi
 
-## 6. Modeling
+### 6. Modeling
 
 Jika dilakukan, tahap ini bertujuan untuk membangun model sederhana, seperti:
 
 - Mengklasifikasikan aplikasi sukses atau tidak berdasarkan jumlah installs
 - Menggunakan algoritma seperti Logistic Regression atau Random Forest
 
-## 7. Evaluasi
+### 7. Evaluasi
 
 Model yang dibuat dievaluasi menggunakan metrik seperti:
 
@@ -98,11 +94,9 @@ Model yang dibuat dievaluasi menggunakan metrik seperti:
 
 Hasil evaluasi digunakan untuk menilai performa model dalam memprediksi keberhasilan aplikasi
 
-# 📂 Insight
+## 📂 Insight
 
----
-
-## Distribusi Rating Aplikasi
+### Distribusi Rating Aplikasi
 
 ![image.png](READ%20me/image.png)
 
