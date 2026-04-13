@@ -96,8 +96,7 @@ Hasil evaluasi digunakan untuk menilai performa model dalam memprediksi keberhas
 ## 📂 Insight
 
 ### Distribusi Rating Aplikasi
-
-![image.png](READ%20me/image.png)
+<img width="560" height="435" alt="image" src="https://github.com/user-attachments/assets/9d5f4dd8-7768-4d0e-b240-a7aa502654de" />
 
 ### Insight:
 
@@ -106,8 +105,7 @@ Sebagian besar aplikasi memiliki rating di kisaran **4.0 – 4.5**, yang menunju
 Namun, terdapat sedikit aplikasi dengan rating rendah (< 3), yang mengindikasikan adanya aplikasi dengan performa atau pengalaman pengguna yang kurang optimal.
 
 ## Kategori Aplikasi Terpopuler
-
-![image.png](READ%20me/image%201.png)
+<img width="560" height="570" alt="image" src="https://github.com/user-attachments/assets/940124e7-562b-4119-bd21-9c67ec934161" />
 
 ### Insight:
 
@@ -119,8 +117,7 @@ Hal ini menunjukkan bahwa:
 - Namun juga memiliki **tingkat persaingan yang sangat tinggi**
 
 ## Hubungan Rating vs Installs
-
-![image.png](READ%20me/image%202.png)
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6b4dcbbc-c3b7-4c39-92c5-ab8867440f7c" />
 
 ### Insight:
 
@@ -135,15 +132,12 @@ Artinya:
 
 ## Free vs Paid Apps
 
-![image.png](READ%20me/image%203.png)
-
 - Free: **17.7 juta (rata-rata installs)**
 - Paid: **113 ribu**
 
 ### Insight:
 
 Aplikasi gratis memiliki jumlah installs yang jauh lebih tinggi dibandingkan aplikasi berbayar.
-
 Hal ini menunjukkan bahwa:
 
 - Model bisnis **freemium lebih dominan**
@@ -195,14 +189,11 @@ Model menghasilkan akurasi sebesar **64%**, yang menunjukkan bahwa model mampu m
 
 **Insight:**
 
-Model memiliki **recall yang cukup tinggi** untuk kelas “sukses”, yang berarti model cukup baik dalam mendeteksi aplikasi yang benar-benar sukses.
-
-Namun, precision yang lebih rendah menunjukkan bahwa masih terdapat prediksi “sukses” yang sebenarnya tidak sukses.
+Model memiliki **recall yang cukup tinggi** untuk kelas “sukses”, yang berarti model cukup baik dalam mendeteksi aplikasi yang benar-benar sukses. Namun, precision yang lebih rendah menunjukkan bahwa masih terdapat prediksi “sukses” yang sebenarnya tidak sukses.
 
 **AUC Score**
 
 Nilai AUC sebesar **0.68** menunjukkan bahwa model memiliki kemampuan yang cukup baik dalam membedakan antara aplikasi yang sukses dan tidak.
-
 Model mampu menangkap pola dasar dari data, namun performanya masih terbatas. Hal ini mengindikasikan bahwa keberhasilan aplikasi tidak hanya dipengaruhi oleh fitur sederhana seperti rating, size, dan price, tetapi juga faktor lain seperti strategi pemasaran, user experience, dan brand awareness.
 
 ### Kesimpulan
