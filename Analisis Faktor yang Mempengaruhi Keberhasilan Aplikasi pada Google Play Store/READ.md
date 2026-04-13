@@ -5,7 +5,7 @@
 <br>
 
 **Table of Contents**
-- [Business Understanding](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-business-understanding)
+- [Business Understanding](https://github.com/clarisapriliana/DataAnalyst_Portofolio/blob/main/Analisis%20Faktor%20yang%20Mempengaruhi%20Keberhasilan%20Aplikasi%20pada%20Google%20Play%20Store/READ.md#-business-understanding)
 - [Workflow](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-workflow)
 - [Insight](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-insight)
 - [Modeling and Evaluation](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-modeling-and-evaluation)
