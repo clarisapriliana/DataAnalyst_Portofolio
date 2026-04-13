@@ -153,11 +153,9 @@ Hal ini menunjukkan bahwa:
 > Secara keseluruhan, keberhasilan aplikasi tidak hanya ditentukan oleh satu faktor, melainkan kombinasi dari berbagai aspek seperti kategori, strategi harga, dan kebutuhan pengguna.
 > 
 
-# 📂 Modeling and Evaluation
+## 📂 Modeling and Evaluation
 
----
-
-## Modeling
+### Modeling
 
 Model yang digunakan adalah **Logistic Regression** untuk mengklasifikasikan apakah sebuah aplikasi termasuk sukses atau tidak berdasarkan jumlah installs.
 
@@ -171,44 +169,44 @@ Distribusi data target relatif seimbang:
 - Success: 4566
 - Tidak: 4320
 
-## Evaluasi Model
+### Evaluasi Model
 
-### Accuracy
+**Accuracy**
 
 Model menghasilkan akurasi sebesar **64%**, yang menunjukkan bahwa model mampu mengklasifikasikan data dengan cukup baik, meskipun masih terdapat ruang untuk peningkatan.
 
-### Confusion Matrix
+**Confusion Matrix**
 
 ```
 [[498 377]
  [256 647]]
 ```
 
-### Insight:
+**Insight:**
 
 - Model cukup baik dalam mengidentifikasi aplikasi **sukses (647 benar)**
 - Namun masih terdapat kesalahan klasifikasi, terutama pada:
     - False Positive (377)
     - False Negative (256)
 
-### Precision & Recall
+**Precision & Recall**
 
 - Precision (Success): **0.63**
 - Recall (Success): **0.72**
 
-### Insight:
+**Insight:**
 
 Model memiliki **recall yang cukup tinggi** untuk kelas “sukses”, yang berarti model cukup baik dalam mendeteksi aplikasi yang benar-benar sukses.
 
 Namun, precision yang lebih rendah menunjukkan bahwa masih terdapat prediksi “sukses” yang sebenarnya tidak sukses.
 
-### AUC Score
+**AUC Score**
 
 Nilai AUC sebesar **0.68** menunjukkan bahwa model memiliki kemampuan yang cukup baik dalam membedakan antara aplikasi yang sukses dan tidak.
 
 Model mampu menangkap pola dasar dari data, namun performanya masih terbatas. Hal ini mengindikasikan bahwa keberhasilan aplikasi tidak hanya dipengaruhi oleh fitur sederhana seperti rating, size, dan price, tetapi juga faktor lain seperti strategi pemasaran, user experience, dan brand awareness.
 
-# Kesimpulan
+### Kesimpulan
 
 - Model Logistic Regression memberikan performa yang **cukup baik (moderate performance)**
 - Model lebih fokus menangkap aplikasi sukses (recall tinggi)
