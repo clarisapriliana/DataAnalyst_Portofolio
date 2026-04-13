@@ -196,7 +196,7 @@ Model memiliki **recall yang cukup tinggi** untuk kelas “sukses”, yang berar
 Nilai AUC sebesar **0.68** menunjukkan bahwa model memiliki kemampuan yang cukup baik dalam membedakan antara aplikasi yang sukses dan tidak.
 Model mampu menangkap pola dasar dari data, namun performanya masih terbatas. Hal ini mengindikasikan bahwa keberhasilan aplikasi tidak hanya dipengaruhi oleh fitur sederhana seperti rating, size, dan price, tetapi juga faktor lain seperti strategi pemasaran, user experience, dan brand awareness.
 
-### Kesimpulan
+## Kesimpulan
 
 - Model Logistic Regression memberikan performa yang **cukup baik (moderate performance)**
 - Model lebih fokus menangkap aplikasi sukses (recall tinggi)
