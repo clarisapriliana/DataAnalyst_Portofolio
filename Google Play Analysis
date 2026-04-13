@@ -1,18 +1,1 @@
-#Predict Loan Default Customers
 
-**Dataset** : [source](https://www.rakamin.com/virtual-internship-experience/data-scientist-home-credit-indonesia) <br>
-**Notebook** : [view](https://github.com/faizns/HCI-vix-project/blob/main/HCI_VIX.ipynb)<br>
-**Presentation deck** : [view](https://www.canva.com/design/DAFsyNotg5E/RKJjuTM0nGTpKF7CuaAcWg/view?utm_content=DAFsyNotg5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-<br>
-
-**Table of Contents**
-- [Business Understanding](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-business-understanding)
-- [Workflow](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-workflow)
-- [Insight](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-insight)
-- [Modeling and Evaluation](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-modeling-and-evaluation)
-- [Model Simulation using Streamlit](https://github.com/faizns/HCI-vix-project/blob/main/README.md#-model-simulation-using-streamlit)
-<br>
-
-
-## 📂 Business Understanding
